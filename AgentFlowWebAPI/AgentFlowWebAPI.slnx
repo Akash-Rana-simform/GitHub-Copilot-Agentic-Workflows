@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AgentFlow/AgentFlow.csproj" />
+  <Project Path="AgentFlow_Application/AgentFlow_Application.csproj" />
+  <Project Path="AgentFlow_Domain/AgentFlow_Domain.csproj" />
+  <Project Path="AgentFlow_Infrastructure/AgentFlow_Infrastructure.csproj" />
+</Solution>
